@@ -7,4 +7,6 @@ Here, we are providing an example subset of the ZHUBO dataset for you to use. If
 Please note that the ZHUBO_split dataset is available on Baidu Cloud, and the link can be found ：https://pan.baidu.com/s/1Ie0LAELCbIGu4ad_J3jbdg
 password:okub
 
+You can also download it through Google Drive: https://drive.google.com/file/d/1tpBtUgSouRHpfBQUcAgSieSXLlFc_5Gi/view?usp=drive_link
+
 Thank you for your interest and support!
