@@ -1,0 +1,96 @@
+[
+ {
+  "start_frame": 6,
+  "end_frame": 56,
+  "emphasis": [
+   23
+  ]
+ },
+ {
+  "start_frame": 399,
+  "end_frame": 444,
+  "emphasis": [
+   419
+  ]
+ },
+ {
+  "start_frame": 603,
+  "end_frame": 753,
+  "emphasis": [
+   618,
+   654,
+   679,
+   710,
+   725,
+   739
+  ]
+ },
+ {
+  "start_frame": 869,
+  "end_frame": 928,
+  "emphasis": [
+   902
+  ]
+ },
+ {
+  "start_frame": 930,
+  "end_frame": 962,
+  "emphasis": [
+   954
+  ]
+ },
+ {
+  "start_frame": 969,
+  "end_frame": 1044,
+  "emphasis": [
+   974,
+   997,
+   1007
+  ]
+ },
+ {
+  "start_frame": 1131,
+  "end_frame": 1235,
+  "emphasis": [
+   1141,
+   1165,
+   1193,
+   1211
+  ]
+ },
+ {
+  "start_frame": 1412,
+  "end_frame": 1468,
+  "emphasis": [
+   1427
+  ]
+ },
+ {
+  "start_frame": 1579,
+  "end_frame": 1657,
+  "emphasis": [
+   1616
+  ]
+ },
+ {
+  "start_frame": 1746,
+  "end_frame": 1796,
+  "emphasis": [
+   1759
+  ]
+ },
+ {
+  "start_frame": 1965,
+  "end_frame": 2017,
+  "emphasis": [
+   1987
+  ]
+ },
+ {
+  "start_frame": 2156,
+  "end_frame": 2188,
+  "emphasis": [
+   2181
+  ]
+ }
+]
